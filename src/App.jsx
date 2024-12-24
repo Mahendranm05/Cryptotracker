@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import Navbar from './components/Navbar/Navbar'
 import {  BrowserRouter as Router ,Routes, Route, Navigate} from 'react-router-dom'
 import Home from './pages/Home/Home'
-import Coin from './pages/coin/coin'
+import Coin from './pages/Coin/Coin'
 import Footer from './components/Footer/Footer'
 import Signup from './components/Signup/Signup'
 
